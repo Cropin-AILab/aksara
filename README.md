@@ -29,4 +29,4 @@ https://www.cropin.com/blogs/introducing-aksara-a-digital-agronomist
 **First Version release:** April 16, 2024.
 
 **Demo:** https://huggingface.co/spaces/cropinailab/aksara
-# Model Card: https://huggingface.co/cropinailab/aksara_v1
+**Model Card:** https://huggingface.co/cropinailab/aksara_v1
