@@ -15,16 +15,18 @@ lora_r: 32
 weight_decay: 0.001
 For full details of this model please read our release blog post here. The technical details for the background, fine-tuning and reproducibility will be shared as a pre-print on arxiv very soon. The model can be inferenced on our Huggingface Space aksara spaces For framework versions, please refer to the requirements.txt file.
 
-Developed by: Cropin
+**Developed by:** Cropin AI Lab
 Contact: ailabs@cropin.com
-Limitations
+
+**Limitations**
 The knowledge of akṣara is limited to the specific region and crops. We are looking forward to engage with the community on ways to make it better on the model, data, pipeline and "Responsible AI".
 
 Disclaimer
 Beta Test version #1.0 - aksara is your agricultural AI advisor. Expect inaccuracies. We’re in active development stage to constantly learn & improve.
 
-# Blog: https://www.cropin.com/blogs/introducing-aksara-a-digital-agronomist 
-First Version release: On hugging face on April 16, 2024.
+**Blog:** 
+https://www.cropin.com/blogs/introducing-aksara-a-digital-agronomist 
+**First Version release:** April 16, 2024.
 
-# Demo: https://huggingface.co/spaces/cropinailab/aksara
+**Demo:** https://huggingface.co/spaces/cropinailab/aksara
 # Model Card: https://huggingface.co/cropinailab/aksara_v1
